@@ -45,7 +45,7 @@ var solutions = [];
 var cluesClass = [];
 var solutionDisplayed = false;
 //Scary debug mode, fills the console with junk
-var debugMode = true;
+var debugMode = false;
 
 //Call main function then either output solution immediately or add the button to do so later
 getClues();

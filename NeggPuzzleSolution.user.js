@@ -3,7 +3,7 @@
 // @description  These puzzles are so boring that it was more fun to wrote a solver.
 // @version      0.9
 // @author       Flutterz
-// @match        https://www.neopets.com/shenkuu/neggcave/index.phtml
+// @match        https://www.neopets.com/shenkuu/neggcave/*
 // @grant        none
 // ==/UserScript==
 
